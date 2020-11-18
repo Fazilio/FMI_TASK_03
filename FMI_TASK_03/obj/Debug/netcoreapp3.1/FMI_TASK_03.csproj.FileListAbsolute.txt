@@ -1,0 +1,12 @@
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.AssemblyInfoInputs.cache
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.AssemblyInfo.cs
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.csproj.CoreCompileInputs.cache
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.exe
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.deps.json
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.runtimeconfig.json
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.runtimeconfig.dev.json
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.dll
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\bin\Debug\netcoreapp3.1\FMI_TASK_03.pdb
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.dll
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.pdb
+C:\Users\Искандер\source\repos\ConsoleApp5\FMI_TASK_03\obj\Debug\netcoreapp3.1\FMI_TASK_03.genruntimeconfig.cache
